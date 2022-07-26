@@ -1,0 +1,10 @@
+node_modules/
+*.log
+
+.DS_Store
+.awcache/
+
+# temp/testing
+z_old/
+z_temp/
+todo.md
